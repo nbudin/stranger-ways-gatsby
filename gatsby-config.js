@@ -79,7 +79,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-s3`,
       options: {
-        bucketName: 'www.stranger-ways.com'
+        bucketName: 'www.stranger-ways.com',
+        protocol: "https",
+        hostname: "www.stranger-ways.com",
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
