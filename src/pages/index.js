@@ -7,7 +7,7 @@ import PageLayout from "../components/PageLayout";
 function IndexPage() {
   const data = useStaticQuery(graphql`
     query {
-      bandPic: file(relativePath: { eq: "stranger-ways-2.0/IMG_5398.jpg" }) {
+      ironAndRustCover: file(relativePath: { eq: "iron-rust-cover.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
@@ -32,21 +32,17 @@ function IndexPage() {
           </section>
 
           <section className="mt-4">
-            <h2>Upcoming!</h2>
-            <ul>
-              <li>
-                <strong>Shows:</strong>
-                {' '}
-                No shows currenly scheduled.
-              </li>
-              <li><strong>Album:</strong> We’re currently working on&nbsp;<em>Iron and Rust</em>, a folk-rock opera about humans and faeries. &nbsp;More information soon!</li>
-            </ul>
+            <h2>Iron &amp; Rust is here!</h2>
+            <p>
+              Our long-awaited concept album, Iron &amp; Rust, is released!  Please check it out
+              <a href="https://strangerways.bandcamp.com/album/iron-rust">on our Bandcamp page</a>.
+            </p>
           </section>
         </div>
         <div className="col-4">
-          <Link to="/photos/stranger-ways-2.0">
-            <Img fluid={data.bandPic.childImageSharp.fluid} alt="Stranger Ways 2.0 in an elevator" />
-          </Link>
+          <a href="https://strangerways.bandcamp.com/album/iron-rust">
+            <Img fluid={data.ironAndRustCover.childImageSharp.fluid} alt="Iron &amp; Rust" />
+          </a>
         </div>
       </div>
     </PageLayout>

@@ -3,6 +3,7 @@ import { useStaticQuery, graphql, Link } from 'gatsby';
 
 import OneColumnLayout from '../components/OneColumnLayout';
 import GAFTCover from '../components/GAFTCover';
+import IronAndRustCover from '../components/IronAndRustCover';
 import SATGCover from '../components/SATGCover';
 
 function MusicPage() {
@@ -32,6 +33,11 @@ function MusicPage() {
           <section className="mb-4">
             <h2>Albums</h2>
             <div class="d-flex">
+              <a href="http://strangerways.bandcamp.com/album/iron-rust" className="card bg-light text-dark p-2 mr-2">
+                <IronAndRustCover />
+                <div><strong>Iron &amp; Rust</strong></div>
+                <i>2020</i>
+              </a>
               <a href="http://strangerways.bandcamp.com/album/guilt-angst-fairy-tales" className="card bg-light text-dark p-2 mr-2">
                 <GAFTCover />
                 <div><strong>Guilt, Angst &amp;<br /> Fairy Tales</strong></div>

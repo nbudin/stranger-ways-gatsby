@@ -3,6 +3,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 
 import GAFTCover from './GAFTCover';
 import SATGCover from './SATGCover';
+import IronAndRustCover from './IronAndRustCover';
 
 function SidebarContent() {
   const data = useStaticQuery(graphql`
@@ -30,6 +31,15 @@ function SidebarContent() {
       <section>
         <h3>Albums</h3>
         <div style={{ textAlign: 'center' }}>
+          <p>
+            <a href="http://strangerways.bandcamp.com/album/iron-rust">
+              <IronAndRustCover />
+            </a>
+            <br />
+            <a href="http://strangerways.bandcamp.com/album/iron-rust">
+              <small><em>Iron &amp; Rust</em> - 2020</small>
+            </a>
+          </p>
           <p>
             <a href="http://strangerways.bandcamp.com/album/guilt-angst-fairy-tales">
               <GAFTCover />

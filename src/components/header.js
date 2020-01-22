@@ -6,7 +6,7 @@ import Img from 'gatsby-image';
 const Header = ({ siteTitle }) => {
   const data = useStaticQuery(graphql`
     query {
-      headerImage: file(relativePath: { eq: "sw2.0-banner-21.jpg" }) {
+      headerImage: file(relativePath: { eq: "sw-logo.png" }) {
         childImageSharp {
           fluid(maxHeight: 198) {
             ...GatsbyImageSharpFluid
