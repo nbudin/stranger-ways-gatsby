@@ -5,6 +5,7 @@ layout: lyrics
 ---
 by Stranger Ways
 
+**Listen to it:** <a href="http://strangerways.bandcamp.com/album/iron-rust" target="_blank">Iron &amp; Rust</a><br/>
 **Watch it:** <a href="https://www.youtube.com/watch?v=nepD43xcYTw" target="_blank">Fractal House concert</a>
 
 <div style="color: #600">
@@ -98,6 +99,8 @@ They'd do no less to you <br/>
 <p>
 March through the rift on my order <br/>
 My friends, we are destined to win <br/>
+Our triumph draws near; we will teach them to fear <br/>
+Let their destruction begin<br />
 Our triumph draws near; we will teach them to fear <br/>
 Let their destruction begin
 </p>

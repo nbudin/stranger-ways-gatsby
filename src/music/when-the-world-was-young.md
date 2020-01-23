@@ -5,6 +5,7 @@ layout: lyrics
 ---
 by Stranger Ways
 
+**Listen to it:** <a href="http://strangerways.bandcamp.com/album/iron-rust" target="_blank">Iron &amp; Rust</a>
 **Watch it:** <a href="https://www.youtube.com/watch?v=djj1qvh_0Vo" target="_blank">Fractal House concert</a>
 
 You don't understand<br/>
@@ -30,7 +31,7 @@ And that day saw the birth of something new on the earth, neither animal nor fae
 Something born when the world couldn't muster enough magic and creation went astray<br/>
 A beast called man, born deaf, dumb, and blind, too sad to be humorous<br/>
 But the world was starved and it couldn’t do better and they soon outnumbered us<br/>
-And the colors slowly faded, like a sunset after dust<br/>
+And the colors slowly faded, like a sunset after dusk<br/>
 And the faeries fled to hidden courts in a world of iron and rust
 
 But we faeries are full of mischief; we’re unseen, but far from done<br/>

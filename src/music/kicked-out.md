@@ -5,6 +5,7 @@ layout: lyrics
 ---
 by Stranger Ways
 
+**Listen to it:** <a href="http://strangerways.bandcamp.com/album/iron-rust" target="_blank">Iron &amp; Rust</a><br/>
 **Watch it:** <a href="https://www.youtube.com/watch?v=rfXvzxtShps" target="_blank">Fractal House concert</a>
 
 “Hey now get your hands off me!” / “What is this supposed to be?” <br/>
@@ -30,27 +31,27 @@ How could they have been so cruel; how could I be such a fool <br/>
 Why did I set them free?
 
 Spent my life believing they were nothing but deceiving fae <br/>
-We paid them in kind, but when she <br/>
+We just paid them in kind, but when she <br/>
 Found out what I really was, terrified of me because <br/>
 Oh! I’ve been so blind
 
 <p style="padding-left: 60px;">
   And just what did I think my new friend would infer <br/>
-  When she found I'd consumed other folk just like her? <br/>
-  She ran and was caught, I couldn’t stand by <br/>
+  When she found I'd consumed other folks just like her? <br/>
+  She ran and was caught, and I couldn’t stand by <br/>
   But now for my troubles am I gonna die?
 </p>
 
 <p style="padding-left: 60px;">
-  They started it first, yes they started this fight <br/>
-  So why should they care if I tried to do right? <br/>
-  I’ve heard all the tales, what they’ve done to good men <br/>
+  Well, they started it first, yes they started this fight<br/>
+  So why should they care if I tried to do right?<br/>
+  I’ve heard all the tales, what they’ve done to good men<br/>
   So why do I feel like I’d do it again?
 </p>
 
 <p style="padding-left: 30px;">
-  I’m kicked out of my home, in the fae realm, alone <br/>
-  To follow my conscience to places unknown <br/>
-  She ran away; should I do the same? <br/>
+  I’m kicked out of my home, to the fae realm, alone<br/>
+  To follow my conscience to places unknown<br/>
+  She ran away; should I do the same?<br/>
   If I try to talk then will I get the blame for it all?
 </p>

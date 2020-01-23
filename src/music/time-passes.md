@@ -5,6 +5,7 @@ layout: lyrics
 ---
 by Stranger Ways
 
+**Listen to it:** <a href="http://strangerways.bandcamp.com/album/iron-rust" target="_blank">Iron &amp; Rust</a><br/>
 **Watch it:** <a href="https://www.youtube.com/watch?v=0X0Wxli2hfQ" target="_blank">Fractal House concert</a>
 
 Head in the grass, surrounded by flowers<br/>

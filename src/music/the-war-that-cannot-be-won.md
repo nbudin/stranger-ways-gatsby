@@ -5,12 +5,13 @@ layout: lyrics
 ---
 by Stranger Ways
 
+**Listen to it:** <a href="http://strangerways.bandcamp.com/album/iron-rust" target="_blank">Iron &amp; Rust</a><br/>
 **Watch it:** <a href="https://www.youtube.com/watch?v=YjboOc4qO7A" target="_blank">Fractal House concert</a>
 
 <p style="color: #606">
-Two ancient enemies arrive here today<br/>
+Two ancient enemies arrived here today<br/>
 Your people praying for salvation <br/>
-I’ve seen the madness and the vengeance in your eyes <br/>
+I’ve seen the madness and the vengeance in their eyes <br/>
 That way leads to annihilation
 </p>
 
@@ -18,7 +19,7 @@ That way leads to annihilation
 You’ve ignited the fuse, now you cannot but lose <br/>
 You lead your own men into slaughter <br/>
 When the battle is done, you will fall to the gun <br/>
-The end is nigh, the war that cannot be won
+The end is nigh, this war that cannot be won
 </p>
 
 <p style="color: #066">
@@ -36,39 +37,39 @@ I’ve got to end this war that cannot be won
 </p>
 
 <p style="color: #066; margin-left: 60px">
-Tom, if you're thinking that which I suspect you’re thinking <br/>
-Then maybe there’s a way, but such a cost <br/>
-Tom, if you're asking that which I suspect you’re asking <br/>
-The power must arise from something lost
+Tom, if you really want to stop the coming bloodshed<br/>
+Then we could close the rift, but at a cost<br/>
+I think I know a way to separate our worlds forever<br/>
+But its power must arise from human loss
 </p>
 
 <p style="color: #606; margin-left: 60px">
 Your queen could throw away a hundred thousand of my people <br/>
 But for her that would be no sacrifice <br/>
-The willing death of just one human holds more power <br/>
+The willing death of just one tiny human holds more power <br/>
 Than the slaughter she would use to pay the price
 </p>
 
 <p>
 <span style="color: #066">
-Two ancient enemies that met in the wood <br/>
+Two ancient enemies that met in the wood<br/>
 And found their fates woven together<br/>
 </span>
 <span style="color: #606">
-Until today I only cared for myself <br/>
+Until today I only cared for myself<br/>
 So we can do your queen one better
 </span>
 </p>
 
 <p style="margin-left: 30px">
 <span style="color: #606">
-Never thought that a friend would deliver my end <br/>
+Never thought that a friend would deliver my end<br/>
 </span>
 <span style="color: #066">
-My virtue the death of my conscience <br/>
+My virtue the death of my conscience<br/>
 </span>
 <span style="color: #006">
-We must give human life to the will of the knife <br/>
+We must give human life to the will of the knife<br/>
 </span>
 <span style="color: #066">
 To save us from the war that cannot
@@ -77,13 +78,13 @@ To save us from the war that cannot
 
 <p style="margin-left: 30px">
 <span style="color: #606">
-Be they human or fae, I will curse those I save <br/>
+Be they human or fae, I will curse those I save<br/>
 </span>
 <span style="color: #066">
-Our worlds must be parted forever <br/>
+Our worlds must be parted forever<br/>
 </span>
 <span style="color: #006">
-So now take up the blade, blood and tears will be paid <br/>
-We won’t let you fight this war that cannot be won
+So now take up the blade, blood and tears will be paid<br/>
+We won’t let you fight the war that cannot be won
 </span>
 </p>

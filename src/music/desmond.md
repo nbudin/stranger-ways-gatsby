@@ -5,6 +5,7 @@ layout: lyrics
 ---
 by Stranger Ways
 
+**Listen to it:** <a href="http://strangerways.bandcamp.com/album/iron-rust" target="_blank">Iron &amp; Rust</a><br/>
 **Watch it:** <a href="https://www.youtube.com/watch?v=PDbSJIkCTwU" target="_blank">PorchFest 2015</a>
 
 <div style="color: #060">
@@ -26,7 +27,7 @@ A gallant adventurer, exploring the world<br/>
 When the lad left home, his parents despaired
 
 <p style="padding-left: 30px;">
-  His father called out, "the woods are not safe<br/>
+  His father cried out, "the woods are not safe<br/>
   Now do as you're told and don't stray from the road<br/>
   Don't give your poor mother a fright; there are demons at night<br/>
   They're seductive as sin!", but he did not heed
@@ -67,7 +68,7 @@ And then it's clear as reason retreats
 
 <p style="padding-left: 30px;">
   This magic - I start to understand<br/>
-  Poisonous, but woven too the land<br/>
+  Poisonous, but woven to the land<br/>
   My compass - how did I never see<br/>
   How it glows with all this energy<br/>
   Channel it - my will to do them harm<br/>
