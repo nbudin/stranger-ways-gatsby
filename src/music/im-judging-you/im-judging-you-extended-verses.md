@@ -87,7 +87,7 @@ You have mixed up “your” and “you’re,” and your grammar I deplore<br/>
 Comma splice, pay the price:<br/>
 I’m failing you.
 
-**On household chores** – *by Alexandria Wilkie*
+**On household chores** – *by Alexandria Wilkie*<br/>
 Housemates wish you’d clean your room, have you never used a broom?<br/>
 I’m judging you, I’m judging you<br/>
 Mounds of clothes and dishes rise, you’re your own Lord of the Flies<br/>
@@ -157,10 +157,10 @@ Soap is wack. Wipe your crack.<br/>
 I’m judging you.
 
 **On Ph.Ds** (alternate bridge) – *by Emily L*<br/>
-Just because you have a doctorate, it’s not your given right
-To feel that you can yammer at me all the day and night
-You’ve attempted to reach “interesting,” but just arrived at “trite”
-Have some class – you’re an ass
+Just because you have a doctorate, it’s not your given right<br/>
+To feel that you can yammer at me all the day and night<br/>
+You’ve attempted to reach “interesting,” but just arrived at “trite”<br/>
+Have some class – you’re an ass<br/>
 I’m judging you
 
 **On polemic** (alternate bridge) - *by Jared H*<br/>
@@ -171,49 +171,51 @@ No, I don't care who you voted for, and think I always shan't<br/>
 I'm just judging you.
 
 **On polyamory** – *by Sami G*<br/>
-When you think it’s oh so great that your sweeties number eight
-I’m judging you, I’m judging you
-When your SOs are outspoken ’bout a partnership that’s broken
-They’re no fun. Just add one!
+When you think it’s oh so great that your sweeties number eight<br/>
+I’m judging you, I’m judging you<br/>
+When your SOs are outspoken ’bout a partnership that’s broken<br/>
+They’re no fun. Just add one!<br/>
 I’m judging you.
 
 **On poor taste in alcohol** - *by Jon Sagotsky*<br/>
-Getting drunk on Tuesday night; Miller High Life and Bud Lite
-I’m judging you, I’m judging you
-you should try something new; Not the same old watery brew
-There’s no taste. You drink waste.
+Getting drunk on Tuesday night; Miller High Life and Bud Lite<br/>
+I’m judging you, I’m judging you<br/>
+you should try something new; Not the same old watery brew<br/>
+There’s no taste. You drink waste.<br/>
 I’m judging you.
 
 **On popular literature** - *by Emily L*<br/>
-When you’re on the train today reading Fifty Shades of Grey
-I’m judging you, I’m judging you
-Though it might give others fright, well, at least it’s not Twilight
-Christian fucks, Edward sucks
+When you’re on the train today reading Fifty Shades of Grey<br/>
+I’m judging you, I’m judging you<br/>
+Though it might give others fright, well, at least it’s not Twilight<br/>
+Christian fucks, Edward sucks<br/>
 I’m judging you
 
 **On PowerPoint presentations** - *by Nat Budin*<br/>
-It’s employee training week, you are standing up to speak
-Water glass, but no class
-For you can’t project your slides, 30 minutes now you’ve tried
-Yes, it’s sad, don’t feel bad
+It’s employee training week, you are standing up to speak<br/>
+Water glass, but no class<br/>
+For you can’t project your slides, 30 minutes now you’ve tried<br/>
+Yes, it’s sad, don’t feel bad<br/>
 I’m just judging you
 
 **On public mobile phone use** - *by Emily L*<br/>
-When you’re out and in a crowd, talking on your phone too loud
-I’m judging you, I’m judging you
-I don’t want to know about how your mother chewed you out
-TMI, say goodbye
+When you’re out and in a crowd, talking on your phone too loud<br/>
+I’m judging you, I’m judging you<br/>
+I don’t want to know about how your mother chewed you out<br/>
+TMI, say goodbye<br/>
 I’m judging you
 
 <p style="padding-left: 30px;">
-  <em>Alternate 3rd lines:<br /> </em>I don’t want to know about how your daughter’s a girl scout<br /> I don’t want to know about how your boyfriend ate you out
+  <em>Alternate 3rd lines:<br /></em>
+  I don’t want to know about how your daughter’s a girl scout<br />
+  I don’t want to know about how your boyfriend ate you out
 </p>
 
 **On RSVP etiquette** - *by Nat Budin, VikAva, LF and ML*<br/>
-When I send you an eVite you don’t respond until that night
-I’m judging you, I’m judging you
-I did not expect to see your plus one and two and three
-Dis my booze – wipe your shoes!
+When I send you an eVite you don’t respond until that night<br/>
+I’m judging you, I’m judging you<br/>
+I did not expect to see your plus one and two and three<br/>
+Dis my booze – wipe your shoes!<br/>
 I’m judging you
 
 **On social dinners** - *by Alexandria Wilkie*<br/>
@@ -224,10 +226,10 @@ You can't add, the waiter's mad<br/>
 And I'm judging you
 
 **On students** - *by Emily L*<br/>
-When you ask what’s on the quiz or query what the homework is
-I’m judging you, I’m judging you
-It’s so hard to wait its true, but if you listen I’ll tell you
-I won’t yell, so listen well!
+When you ask what’s on the quiz or query what the homework is<br/>
+I’m judging you, I’m judging you<br/>
+It’s so hard to wait its true, but if you listen I’ll tell you<br/>
+I won’t yell, so listen well!<br/>
 I’m judging you.
 
 **On students (cont'd)** - *by Sharone H-H*<br/>
