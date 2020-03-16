@@ -4,7 +4,12 @@ author: Nat
 layout: lyrics
 ---
 <p style="padding-left: 30px;">
-  When this song’s stuck in your head, and you want to kill us dead<br /> We’re judging you, we’re judging you<br /> Perhaps you should write a verse, but you think you’ll make it worse<br /> Write away, it’s OK<br /> But we’re judging you<br /> <em>        – Emily L</em>
+  When this song’s stuck in your head, and you want to kill us dead<br />
+  We’re judging you, we’re judging you<br />
+  Perhaps you should write a verse, but you think you’ll make it worse<br />
+  Write away, it’s OK<br />
+  But we’re judging you<br />
+  <em>        – Emily L</em>
 </p>
 
 *[I’m Judging You][1] has turned out to represent some universal experiences for our listeners.  Even before releasing the song, we had written a sizable number of alternate verses, and after we began performing it, fans started writing their own.  We’ve collected as many of them as we can here.*
@@ -12,80 +17,88 @@ layout: lyrics
 <a class="btn btn-primary" href="mailto:info@stranger-ways.com?subject=I'm Judging You verse">I wrote a verse!  Please put it here.</a>
 
 **On boarding subways** - *by Diana Hsu*<br/>
-When you’re waiting at the station with increasing consternation
-I’m judging you, I’m judging you
-When you try to shove on board, barging through the leaving horde
-You’re an ass – Let them pass
+When you’re waiting at the station with increasing consternation<br/>
+I’m judging you, I’m judging you<br/>
+When you try to shove on board, barging through the leaving horde<br/>
+You’re an ass – Let them pass<br/>
 I’m judging you.
 
 **On cleaning up after pets** - *by Emily L*<br/>
-When your dog craps on my lawn, I just wish that you’d be gone.
-I’m judging you, I’m judging you.
-Don’t you dare just walk away.  Use a plastic bag, okay?!
-It’s your pup.  Pick it up.
+When your dog craps on my lawn, I just wish that you’d be gone.<br/>
+I’m judging you, I’m judging you.<br/>
+Don’t you dare just walk away.  Use a plastic bag, okay?!<br/>
+It’s your pup.  Pick it up.<br/>
 I’m judging you.
 
 **On conversational etiquette** - *by Emily L*<br/>
-When you’re chatting with your friend and your listening you suspend,
-I’m judging you, I’m judging you.
-You won’t know what’s going on.  The directions will be gone.
-Take a look.  Where’s your book?!
+When you’re chatting with your friend and your listening you suspend,<br/>
+I’m judging you, I’m judging you.<br/>
+You won’t know what’s going on.  The directions will be gone.<br/>
+Take a look.  Where’s your book?!<br/>
 I’m judging you.
 
+**On COVID-19** - *by Nat with help from Jon, Kara, and Sandry*
+([Download the hand washing poster version!](./im-judging-you-handwashing.png))<br/>
+When you do not wash your hands, when you stick to all your plans<br/>
+I'm judging you, I'm judging you<br/>
+Cause we're all in this pandemic, the effects here are systemic<br/>
+Stay in place.  Don't touch your face!<br/>
+I'm judging you
+
 **On cyberchondria** – *by Alexandria Wilkie*<br/>
-You have no medical degree, but you’ve bookmarked Web MD
-I’m judging you, I’m judging you
-Friends have caught every disease, you’re researching my last sneeze
-I’m quite well – go to hell!
+You have no medical degree, but you’ve bookmarked Web MD<br/>
+I’m judging you, I’m judging you<br/>
+Friends have caught every disease, you’re researching my last sneeze<br/>
+I’m quite well – go to hell!<br/>
 I’m judging you
 
 **On dating people with poor taste in literature** (alternate bridge) - *by Shelley, Nat & Sandry*<br/>
-When I go on OKCupid ’cause you messaged me today
-And your favorite books are Atlas Shrugged and Fifty Shades of Grey
-Yes, I know who fucking John Galt is, now please just go away
-Sleep with you? Please go screw.
+When I go on OKCupid ’cause you messaged me today<br/>
+And your favorite books are Atlas Shrugged and Fifty Shades of Grey<br/>
+Yes, I know who fucking John Galt is, now please just go away<br/>
+Sleep with you? Please go screw.<br/>
 I’m judging you
 
 **On drafty rooms** – *by Emily L*<br/>
-When you whine that you are chilly in your shorts and t-shirt frilly
-I’m judging you, I’m judging you
-Suck it up and get a sweater, or a jacket – even better
-It’s December, just remember
+When you whine that you are chilly in your shorts and t-shirt frilly<br/>
+I’m judging you, I’m judging you<br/>
+Suck it up and get a sweater, or a jacket – even better<br/>
+It’s December, just remember<br/>
 I’m judging you
 
-**On filk** - *by Nat Budin and Kate Farb-Johnson*<br/>
-In the morning after three, fifteen verses, out of key
-I’m judging you, I’m judging you
-It’s my Enya Gundam filk – almost nothing rhymes with “filk”
-I mean there’s “ilk”… and “milk”
+**On filk** - *by Nat Budin and Kate Fractal*<br/>
+In the morning after three, fifteen verses, out of key<br/>
+I’m judging you, I’m judging you<br/>
+It’s my Enya Gundam filk – almost nothing rhymes with “filk”<br/>
+I mean there’s “ilk”… and “milk”<br/>
 I’m judging you
 
 **On hipsters** - *by Jon Sagotsky*<br/>
-Lumberjack mustache and beard; grandma glasses, looking weird.
-I’m judging you, I’m judging you
-Huge tattoo upon your chest, fixed speed bike like all the rest,
-Irony, douche neck tee.
+Lumberjack mustache and beard; grandma glasses, looking weird.<br/>
+I’m judging you, I’m judging you<br/>
+Huge tattoo upon your chest, fixed speed bike like all the rest,<br/>
+Irony, douche neck tee.<br/>
 I’m judging you.
 
 **On homework** - *by Emily L*<br/>
-When you don’t proofread your work you are driving me berserk
-I’m judging you, I’m judging you
-You have mixed up “your” and “you’re,” and your grammar I deplore
-Comma splice, pay the price:
+When you don’t proofread your work you are driving me berserk<br/>
+I’m judging you, I’m judging you<br/>
+You have mixed up “your” and “you’re,” and your grammar I deplore<br/>
+Comma splice, pay the price:<br/>
 I’m failing you.
 
 **On household chores** – *by Alexandria Wilkie*
-Housemates wish you’d clean your room, have you never used a broom?
-I’m judging you, I’m judging you
-Mounds of clothes and dishes rise, you’re your own Lord of the Flies
-Hire a maid; you’re well-paid
+Housemates wish you’d clean your room, have you never used a broom?<br/>
+I’m judging you, I’m judging you<br/>
+Mounds of clothes and dishes rise, you’re your own Lord of the Flies<br/>
+Hire a maid; you’re well-paid<br/>
 But I’m judging you
 
 **On “I’m Judging You”** - *by Nat Budin*<br/>
-Once I wrote a silly song, with this tune to sing along:
-“I’m judging you, I’m judging you”
-But I know I do half this shit – guess I’m just a hypocrite
-Crowds applaud, I’m a fraud
+Once I wrote a silly song, with this tune to sing along:<br/>
+“I’m judging you, I’m judging you”<br/>
+But I know I do half this shit – guess I’m just a hypocrite<br/>
+Crowds applaud, I’m a fraud<br/>
 I’m judging me
 
 **On the intersection of mobile phones and retail** - *by Sharone H-H and Terry H*<br/>
@@ -102,7 +115,6 @@ And I'm judging you
     <td style="padding: 0; border: 0;">
       Cum in Gallia pugnas, et de omnibus scribas,<br /> Iudico te, iudico te<br /> Omnes feminas amas, et in Idus lacrimas,<br /> Res est lex, tu non rex<br /> Iudico te!
     </td>
-
     <td style="padding: 0; border: 0; font-style: italic;">
       When you’re off fighting in Gaul and you’re writing about all,<br /> I’m judging you, I’m judging you<br /> You love all the girls (oh my!) and on the Ides, you will cry<br /> Law’s the thing, you’re not king.<br /> I’m judging you
     </td>
@@ -110,38 +122,38 @@ And I'm judging you
 </table>
 
 **On liberals** - *by Nat Budin and Alexandria Wilkie*<br/>
-They say you are what you eat, guess you’re not eggs, cheese or meat
-I’m judging you, I’m judging you
-Solar panels on your house, organic cotton for your blouse
-Hybrid car, NPR
+They say you are what you eat, guess you’re not eggs, cheese or meat<br/>
+I’m judging you, I’m judging you<br/>
+Solar panels on your house, organic cotton for your blouse<br/>
+Hybrid car, NPR<br/>
 I’m judging you
 
 **On libertarians** (alternate bridge) – *by Nat Budin*<br/>
-So you took that course in college where you read “The Fountainhead”
-Now you worship the free market and you want to end the Fed
-If you can’t afford a doctor, then you’ll prob’ly wind up dead
-You’ve got yours; fuck the poor
+So you took that course in college where you read “The Fountainhead”<br/>
+Now you worship the free market and you want to end the Fed<br/>
+If you can’t afford a doctor, then you’ll prob’ly wind up dead<br/>
+You’ve got yours; fuck the poor<br/>
 I’m judging you
 
 **On objectivists** - *by William L*<br/>
-When you lecture me on freedom, from your comfy house in Needham
-I’m judging you, I’m judging you
-Thinking you’re taking a stand, while you sit and read your Rand
-Privilege is not bondage
+When you lecture me on freedom, from your comfy house in Needham<br/>
+I’m judging you, I’m judging you<br/>
+Thinking you’re taking a stand, while you sit and read your Rand<br/>
+Privilege is not bondage<br/>
 I’m judging you
 
 **On Paris** (alternate bridge) – *by Emily L, Paul Estin, and Nat Budin*<br/>
-When three goddesses come to me and they ask me to choose which
-Of them seems to be the fairest, and they vow to make me rich
-Aphrodite finally got my vote, ’cause Hera’s such a bitch
-Athena’s wise, but not my size
-I’m judging them* *
+When three goddesses come to me and they ask me to choose which<br/>
+Of them seems to be the fairest, and they vow to make me rich<br/>
+Aphrodite finally got my vote, ’cause Hera’s such a bitch<br/>
+Athena’s wise, but not my size<br/>
+I’m judging them
 
 **On personal hygiene** - *by Jon Sagotsky*<br/>
-In the morning you don’t bathe, wear deodorant or shave,
-I’m judging you, I’m judging you.
-You don’t need to wash your hair, no-one ever looks up there.
-Soap is wack. Wipe your crack.
+In the morning you don’t bathe, wear deodorant or shave,<br/>
+I’m judging you, I’m judging you.<br/>
+You don’t need to wash your hair, no-one ever looks up there.<br/>
+Soap is wack. Wipe your crack.<br/>
 I’m judging you.
 
 **On Ph.Ds** (alternate bridge) – *by Emily L*<br/>
@@ -226,17 +238,17 @@ Yes, it's fair, please don't swear<br/>
 And I'm judging you.
 
 **On tabletop RPGs** - *by Jon Sagotsky*<br/>
-You’ve got more dice than you can count; epic wizard, dragon mount.
-I’m judging you, I’m judging you
-Somehow you play this game all night, find some gold then lose the fight,
-DnD, Not with me.
+You’ve got more dice than you can count; epic wizard, dragon mount.<br/>
+I’m judging you, I’m judging you<br/>
+Somehow you play this game all night, find some gold then lose the fight,<br/>
+DnD, Not with me.<br/>
 I’m judging you.
 
 **On technology problems** - *by Jon Sagotsky, Brad Smith, Alexandria Wilkie and Nat Budin*<br/>
-When you’re in computer hell, can’t log onto AOL
-I’m judging you, I’m judging you
-Got yourself a nasty virus, watching porn of Miley Cyrus
-Format C:, Red Hat’s free
+When you’re in computer hell, can’t log onto AOL<br/>
+I’m judging you, I’m judging you<br/>
+Got yourself a nasty virus, watching porn of Miley Cyrus<br/>
+Format C:, Red Hat’s free<br/>
 I’m judging you
 
 **On truck drivers** - *by Emily L*<br/>
@@ -247,10 +259,10 @@ You're a toad.  Share the road!<br/>
 I'm judging you
 
 **On YouTube** - *by Diana Hsu and Nat Budin*<br/>
-When you stay online too late, watching pandas masturbate
-I’m judging you, I’m judging you
-There’s two girls but just one cup, never gonna give you up
-Snakes on plane, Chocolate Rain
+When you stay online too late, watching pandas masturbate<br/>
+I’m judging you, I’m judging you<br/>
+There’s two girls but just one cup, never gonna give you up<br/>
+Snakes on plane, Chocolate Rain<br/>
 I’m Rickrolling you
 
 <a class="btn btn-primary" href="mailto:info@stranger-ways.com?subject=I'm Judging You verse">I wrote a verse!  Please put it here.</a>
